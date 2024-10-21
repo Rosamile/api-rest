@@ -32,3 +32,4 @@ app.use(errorBoom);
 
 routerApi(app);
 
+module.exports = app
